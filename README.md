@@ -14,6 +14,8 @@
 **R2M** isn't wrapped in an installer, so simply unzip the two included files (R2M.exe and R2M.exe.config) to a suitable folder.
 
 ### Usage
+![User interface](https://github.com/KrisP69/R2M/blob/main/R2M_UI.PNG)
+
 Click the `Start` button to begin a logging session. If Raceroom isn't running when the `Start` button is clicked, **R2M** will wait and begin logging when the player's car enters the track. 
 
 The recording of telemetry is stopped and written to the chosen destination folder when either:
