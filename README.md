@@ -19,6 +19,7 @@
 
 ### Usage
 ![User interface](https://github.com/KrisP69/R2M/blob/main/R2M_UI.PNG)
+
 Click the `Start` button to begin a logging session. If RaceRoom isn't running when the `Start` button is clicked, **R2M** will wait and begin logging when the player's car enters the track. 
 
 The recording of telemetry is stopped and written to the chosen destination folder when either:
