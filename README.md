@@ -8,7 +8,7 @@
  - Very low CPU and memory usage
  - Low-jitter sampling
  - High-frequency recording of suspension, wheel loads and ride height channels (200 Hz)
- - Follows the channel naming convention used by **MOTEC i2**'s built-in _Circuit Racing_ workspace, so the exported files are usable without having to configure channels
+ - Follows the channel naming convention used by **MOTEC i2**'s built-in _Circuit_ workspace template, so the exported files are usable without having to configure channels
 
 ### Prerequisites (for older Windows systems)
 [.NET 4.8 Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
