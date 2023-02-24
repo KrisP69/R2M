@@ -19,7 +19,7 @@ Click the `Start` button to begin a logging session. If RaceRoom isn't running w
 The recording of telemetry is stopped and written to the chosen destination folder when either:
 
 - The `Stop` button is clicked or **R2M** is closed
-- The number of laps entered in the `Limit number of logged laps to` box have been logged
+- The number of laps entered in the `Limit number of logged laps to` box has been logged
 - The track session is exited or changed (i.e. from practice to qualify or qualify to race)
 - The track session is restarted
 - The pit lane is entered 
